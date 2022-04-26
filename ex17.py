@@ -6,6 +6,7 @@ script, from_file, to_file = argv #takes in from_file and to_file variables as a
 print(f"Copying from {from_file} to {to_file}") #message
 
 #we could do these two on one line, how
+# answer: separate with semi-colon! 
 in_file = open(from_file) #opens from file and saves it as in_file
 indata = in_file.read() #reads in_file and saves contents as indata
 
