@@ -1,8 +1,9 @@
 This is a mistakes log, starting with exercise 7. In previous exercises, I forgot periods or missed quotation marks.
 
 *Discoveries*
-Not a mistake so much as a discovery -- TRUE and T behave differently than True 
-another discovery -- `pydoc [function]` tells you about that function
+- TRUE and T behave differently than True 
+- `pydoc [function]` tells you about that (python) function
+- `man [function]` also tells you about that (cli) function 
 
 
 *Mistakes*
