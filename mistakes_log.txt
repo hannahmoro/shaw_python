@@ -3,7 +3,7 @@ This is a mistakes log, starting with exercise 7. In previous exercises, I forgo
 *Discoveries*
 - TRUE and T behave differently than True 
 - `pydoc [function]` tells you about that (python) function
-- `man [function]` also tells you about that (cli) function 
+- `man [function]` also tells you about that (terminal) function 
 
 
 *Mistakes*
