@@ -19,3 +19,15 @@ cheese_and_crackers(10 + 20, 5 + 6) #uses function with values added together
 
 print("And we can combine the two, variables and math:") #message then uses function with vars plus values
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
+
+def my_first_function(name, number):
+    print(f"This is {name}'s first function!")
+    print(f"It is the first function of at least {number}...")
+    print(f"In the future, this function will seem SO simple to {name}")
+
+my_first_function("Hannah", 100+10)
+
+me = "Hannah M"
+n_lifetime_functions = 10200
+
+my_first_function(me, n_lifetime_functions)
