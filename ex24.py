@@ -12,7 +12,7 @@ and requires an explanation
 """
 
 print("--------------")
-print("poem")
+print(poem)
 print("--------------")
 
 five = 10 - 2 + 3 - 6
